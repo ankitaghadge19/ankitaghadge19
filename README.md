@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitaghadge19&label=Profile%20views&color=0e75b6&style=flat" alt="ankitaghadge19" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ankita_ghadge19" target="blank"><img src="https://img.shields.io/twitter/follow/ankita_ghadge19?logo=twitter&style=for-the-badge" alt="ankita_ghadge19" /></a> </p>
-
 - 🌱 I’m currently learning **Node.js and ASP.NET.**
 
 - 👨‍💻 All of my projects are available at [https://ankitaghadge.netlify.app/](https://ankitaghadge.netlify.app/)
@@ -29,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitaghadge19&show_icons=true&locale=en" alt="ankitaghadge19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitaghadge19&" alt="ankitaghadge19" /></p>
+
+<p><img align="left" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitaghadge19&" alt="ankitaghadge19" /> <p align="center"> <img width="500" src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p></p>
+
+
