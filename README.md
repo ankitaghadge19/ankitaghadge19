@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ankita Ghadge</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitaghadge19&label=Profile%20views&color=0e75b6&style=flat" alt="ankitaghadge19" /> </p>
 
-- 🌱 I’m currently learning **Node.js and ASP.NET.**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://ankitaghadge.netlify.app/](https://ankitaghadge.netlify.app/)
 
-- 💬 Ask me about **DSA, Full stack development.**
+- 💬 Ask me about **DSA, Full-Stack Development.**
 
 - 📫 How to reach me **ghadge.ankita197@gmail.com**
 
