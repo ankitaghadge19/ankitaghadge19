@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitaghadge19&label=Profile%20views&color=0e75b6&style=flat" alt="ankitaghadge19" /> </p>
+<p align="left">  </p>
 
 - 🌱 I’m currently learning **Java and ASP.Net**
 
