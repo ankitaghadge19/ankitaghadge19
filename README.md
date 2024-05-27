@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankita Ghadge</h1>
 <h3 align="center">A Passionate Full-Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" height=""400 src="https://i.etsystatic.com/21540718/r/il/d6d94f/2344183740/il_1588xN.2344183740_r7ca.jpg">
+<img align="right" alt="Coding" width="600" height=""200 src="https://i.etsystatic.com/21540718/r/il/d6d94f/2344183740/il_1588xN.2344183740_r7ca.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitaghadge19&label=Profile%20views&color=0e75b6&style=flat" alt="ankitaghadge19" /> </p>
 
