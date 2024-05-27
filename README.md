@@ -5,12 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitaghadge19&label=Profile%20views&color=0e75b6&style=flat" alt="ankitaghadge19" /> </p>
 
 - 🌱 I’m currently learning **Java and ASP.Net**
-
-- 👨‍💻 All of my projects are available at [https://ankitaghadge.netlify.app/](https://ankitaghadge.netlify.app/)
-
+  
 - 💬 Ask me about **DSA, Full-Stack Development.**
-
+  
 - 📫 How to reach me **ghadge.ankita197@gmail.com**
+  
+- 👨‍💻 All of my projects are available at [https://ankitaghadge.netlify.app/](https://ankitaghadge.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
