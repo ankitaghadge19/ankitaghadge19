@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java and ASP.Net**
   
-- 💬 Ask me about **DSA, Full-Stack Development.**
+- 💬 Ask me about **DSA, MERN Stack**
   
 - 📫 How to reach me **ghadge.ankita197@gmail.com**
   
@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ankita_ghadge19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankita_ghadge19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankitaghadge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitaghadge" height="30" width="40" /></a>
+<a href="https://twitter.com/ankita_ghadge19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankita_ghadge19" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ghadgeankita19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ghadgeankita19" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/ghadge_ankita197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/ghadge_ankita197" height="30" width="40" /></a>
 </p>
