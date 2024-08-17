@@ -10,7 +10,7 @@
   
 - 📫 How to reach me **ghadge.ankita197@gmail.com**
   
-- 👨‍💻 All of my projects are available at [https://ankitaghadge.netlify.app/](https://portfolio-72108.web.app/)
+- 👨‍💻 All of my projects are available at [https://ankitaghadge.portfolio.com/](https://portfolio-72108.web.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
