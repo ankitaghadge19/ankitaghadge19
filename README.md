@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ankita Ghadge</h1>
 <h3 align="center">A Passionate Full-Stack Developer from India</h3>
 
@@ -47,20 +48,19 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Statistics:</h3>
-
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ankitaghadge19&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=ankitaghadge19&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ankitaghadge19&layout=compact&theme=default"
+    alt="Most Used Languages"
+    height="165"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=ankitaghadge19&show_icons=true&theme=default"
+    alt="GitHub Stats"
+    height="165"
+  />
 </p>
 
 <p align="left">
   <img width="400" src="./profile/streak.svg" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" alt="Coding Animation" />
 </p>
