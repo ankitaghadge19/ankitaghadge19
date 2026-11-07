@@ -17,6 +17,7 @@
   <a href="https://linkedin.com/in/ankitaghadge" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/ankitaghadge03/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
@@ -28,21 +29,27 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
@@ -52,13 +59,13 @@
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=ankitaghadge19&layout=compact&theme=default"
     alt="Most Used Languages"
-    height="165"
+    align="center"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-stats-extended.vercel.app/api?username=ankitaghadge19&show_icons=true&include_all_commits=true&show=contributions&hide=issues,contribs&hide_rank=true&theme=default"
+    src="https://github-stats-extended.vercel.app/api?username=ankitaghadge19&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&hide=issues,contribs&hide_rank=true&line_height=30&theme=default"
     alt="GitHub Stats"
-    height="165"
+    align="center"
   />
 </p>
 
