@@ -3,14 +3,10 @@
 <img align="right" alt="Coding" width="365" height="220" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*mr7WXw8tgpMhqugKP2WhrA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitaghadge19&label=Profile%20views&color=0e75b6&style=flat" alt="ankitaghadge19" /> </p>
-
-- 🌱 I’m currently learning **Java**
   
-- 💬 Ask me about **DSA, MERN Stack**
+- 💬 Ask me about **Java, Spring Boot, React, DSA**
   
 - 📫 How to reach me **ghadge.ankita197@gmail.com**
-  
-- 👨‍💻 All of my projects are available at [https://ankitaghadge.portfolio.com/](https://portfolio-72108.web.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
