@@ -56,7 +56,7 @@
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-stats-extended.vercel.app/api?username=ankitaghadge19&show_icons=true&theme=default"
+    src="https://github-stats-extended.vercel.app/api?username=ankitaghadge19&show_icons=true&include_all_commits=true&show=contributions&hide=issues,contribs&hide_rank=true&theme=default"
     alt="GitHub Stats"
     height="165"
   />
